@@ -1,18 +1,19 @@
 # Hello, I'm Niyaz 👋
+<img align='right' src="https://lh3.googleusercontent.com/proxy/AQqfy1b_g3ekft1z4o9bRnZBHpxFRknXGxqtzYL-L5fO70jBu0UBBqK3wtPc0ol3PblnuYaU3HLvN_rSoz3jzkw1VKHS-SLwc3TyGrcZlg" width="">
 
 [![Linkedin Badge](https://img.shields.io/badge/-niyazbh-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/niyazbh/)](https://www.linkedin.com/in/niyazbh/)
-<!--
+
 **Talking about Personal Stuffs:**
 
-- 👨🏽‍💻 I’m currently an Artificial Intelligence intern with [Vneuron](https://www.vneuron.com/) working on NLP/NLU projects;
-- 🌱 I’m currently learning Deep Reinforcement Learning; 
-- 🤔 My interests are with Natural Language Processing/Understanding, Computer vision, Reinforcement Learning, etc..;
-- 💼 I’m pursuing a Bachelor's degree in Software Engineering;
+- 👨🏽‍💻 I’m currently Machine Learning Engineer with [NybSys](https://www.nybsys.com/) working on ML/DL projects;
+- 🌱 I’m currently learning DevOps, Data-Driven Astronomy; 
+- 🤔 My interests are with Deep Learning, Computer vision, Reinforcement Learning, etc..;
+- 💼 I pursued a Bachelor's degree in Computer Science & Engineering;
 - 💬 Ask me about anything, I am happy to help;
-- 📫 Please email via mabrouki.mehdi25@gmail.com to reach me.
-- 📝 See my [Curriculum Vitae](https://drive.google.com/file/d/1q_ATZsO9c488VUxj1JuU--ZYe9IEqp4-/view?usp=sharing) to get more info.
+- 📫 Please email via niyazbinhashem@gmail.com to reach me.
+- 📝 See my [Curriculum Vitae](https://drive.google.com/file/d/1Y_bZTDG2k2QBmAgPO2Lo2G4zKIrU3oAO/view?usp=sharing) to get more info.
 
-
+<!--
 **Languages and Tools:**  
 
 <code><img height="20" src="https://pytorch.org/assets/images/pytorch-logo.png"></code>
