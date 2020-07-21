@@ -5,7 +5,7 @@
 
 **Talking about Personal Stuffs:**
 
-- 👨🏽‍💻 I’m currently Machine Learning Engineer with [NybSys](https://www.nybsys.com/) working on ML/DL projects;
+- 👨🏽‍💻 I’m currently a Machine Learning Engineer with [NybSys](https://www.nybsys.com/) working on ML/DL projects;
 - 🌱 I’m currently learning DevOps, Data-Driven Astronomy; 
 - 🤔 My interests are with Deep Learning, Computer vision, Reinforcement Learning, etc..;
 - 💼 I pursued a Bachelor's degree in Computer Science & Engineering;
