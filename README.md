@@ -13,25 +13,31 @@
 - 📫 Please email via niyazbinhashem@gmail.com to reach me.
 - 📝 See my [Curriculum Vitae](https://drive.google.com/file/d/1Y_bZTDG2k2QBmAgPO2Lo2G4zKIrU3oAO/view?usp=sharing) to get more info.
 
-<!--
+
 **Languages and Tools:**  
 
-<code><img height="20" src="https://pytorch.org/assets/images/pytorch-logo.png"></code>
+
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/tensorflow/tensorflow.png"></code>
+<code><img height="20" src="https://upload.wikimedia.org/wikipedia/commons/b/b1/PyTorch_Lightning_Logo.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
+<code><img height="20" src="https://qph.fs.quoracdn.net/main-qimg-748316a749bdb46f5cdbe02e976e5500.webp"></code>
+<code><img height="20" src="https://seeklogo.com/images/D/django-logo-F46C1DD95E-seeklogo.com.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
+<code><img height="20" src="https://cdn.pixabay.com/photo/2017/01/31/15/33/linux-2025130_1280.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"></code>
+<code><img height="20" src="https://www.kindpng.com/picc/m/713-7136289_rougier-numpy-logo-name-below-02-python-numpy.png"></code>
+<code><img height="20" src="https://numfocus.org/wp-content/uploads/2016/07/pandas-logo-300.png"></code>
+<code><img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Scikit_learn_logo_small.svg/1200px-Scikit_learn_logo_small.svg.png"></code>
+
+<code><img height="20" src="https://icon2.cleanpng.com/20180705/ok/kisspng-google-cloud-platform-cloud-computing-google-searc-5b3ee51fa96857.2438006715308485436939.jpg"></code>
+<code><img height="20" src="https://miro.medium.com/max/4392/1*iaH9co5CxNPD2cx1VNCYKQ.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
 
 
 ![Niyaz's Github Stats](https://github-readme-stats.vercel.app/api?username=niyazed&show_icons=true)
-
+<!--
 
 **niyazed/niyazed** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
