@@ -1,5 +1,5 @@
 # Hello, I'm Niyaz 👋
-<img align='right' src="https://lh3.googleusercontent.com/proxy/AQqfy1b_g3ekft1z4o9bRnZBHpxFRknXGxqtzYL-L5fO70jBu0UBBqK3wtPc0ol3PblnuYaU3HLvN_rSoz3jzkw1VKHS-SLwc3TyGrcZlg" width="">
+<img align='right' src="https://i.pinimg.com/originals/b9/49/c8/b949c86a570df07a7440abe39405834c.gif" width="30%">
 
 [![Linkedin Badge](https://img.shields.io/badge/-niyazbh-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/niyazbh/)](https://www.linkedin.com/in/niyazbh/)
 
