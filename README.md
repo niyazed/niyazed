@@ -5,8 +5,8 @@
 
 **Talking about Personal Stuffs:**
 
-- 🌱 I’m currently learning DevOps, Data-Driven Astronomy; 
-- 🤔 My interests are with Deep Learning, Computer vision, Reinforcement Learning, etc..;
+- 🌱 I’m currently learning DevOps, Data Engineering; 
+- 🤔 My interests are with Deep Learning, Computer vision, Cloud Computing, etc..;
 - 💼 I pursued a Bachelor's degree in Computer Science & Engineering;
 - 💬 Ask me about anything, I am happy to help;
 - 📫 Please email via niyazbinhashem@gmail.com to reach me.
