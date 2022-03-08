@@ -5,7 +5,7 @@
 
 **Talking about Personal Stuffs:**
 
-- 🌱 I’m currently learning DevOps, Data Engineering; 
+- 🌱 I’m currently working on MLOps, Data Engineering; 
 - 🤔 My interests are with Automation, Deep Learning, Computer vision, Cloud Computing, etc..;
 - 💼 I pursued a Bachelor's degree in Computer Science & Engineering;
 - 💬 Ask me about anything, I am happy to help;
