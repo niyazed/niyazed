@@ -9,7 +9,7 @@
 - 🤔 My interests are with Automation, Deep Learning, Computer vision, Cloud Computing, etc..;
 - 💼 I pursued a Bachelor's degree in Computer Science & Engineering;
 - 💬 Ask me about anything, I am happy to help;
-- 📫 Please email via niyazbinhashem@gmail.com to reach me.
+- 📫 Please email via niyaz.hashem@gmail.com to reach me.
 
 
 **Languages and Tools:**  
